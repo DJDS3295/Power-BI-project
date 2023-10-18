@@ -1,1 +1,3 @@
 # Power-BI-project
+
+It's a power BI project for Madhav store data analysis....
